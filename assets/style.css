@@ -1,0 +1,24 @@
+.navbar-static-bottom {
+	text-align: center;
+	width: 100%;
+	padding-top: 10px;
+}
+
+.navbar-fixed-bottom {
+	background-color: grey;
+	text-align: center;
+	width: 100%;
+	padding-top: 10px;
+}
+
+.caption {
+	text-align: center;
+}
+
+.navbar {
+	background-color: #d3dded;
+}
+
+.panel-heading {
+	background-color: #d3dded;
+}
